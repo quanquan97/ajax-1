@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ajax</title>
+    <!-- <link rel="stylesheet" href="/style.css"> 现在不用这个方式请求css 用ajax的方法请求css-->
+  </head>
+  <body>
+    <h1>AJAX demo-1 你好 <span id="myName"></span></h1>
+    <p>
+      <button id="getCSS">请求CSS</button>
+      <button id="getJS">请求JS</button>
+      <button id="getHTML">请求HTML</button>
+      <button id="getXML">请求XML</button>
+      <button id="getJson">请求Json</button>
+      <button id="getNextPage">请求下一页</button>
+    </p>
+
+    <div>{{page1}}</div>
+    <!-- 这只是个标记  占位符， 要把这个变成page1 的内容-->
+
+    <script src="/main.js"></script>
+    <!-- <script src='/2.js'></script> 现在不使用script 标签  使用ajax-->
+  </body>
+</html>

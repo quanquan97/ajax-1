@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10df561c-63e8-436b-81c8-2d6243c307e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ajx-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/page1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/page2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/page3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1krSnlywhxAPbGP2qoCAzM3ExQa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10df561c-63e8-436b-81c8-2d6243c307e3" name="Default Changelist" comment="" />
+      <created>1606457387323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606457387323</updated>
+      <workItem from="1606457389660" duration="826000" />
+      <workItem from="1606555271505" duration="425000" />
+      <workItem from="1606556739305" duration="642000" />
+      <workItem from="1606576843698" duration="101000" />
+      <workItem from="1606632127608" duration="1679000" />
+      <workItem from="1606633988607" duration="10000" />
+      <workItem from="1606637343039" duration="285000" />
+      <workItem from="1606637721701" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
