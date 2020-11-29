@@ -1,3 +1,4 @@
+// ajax的典型应用---加载分页
 let n = 1; //n会变
 getNextPage.onclick = () => {
   const request = new XMLHttpRequest();
@@ -15,8 +16,7 @@ getNextPage.onclick = () => {
   };
   request.send();
 };
-// ------------------------------------------------------------------
-
+// 请求json------------------------------------------------------------------
 getJSON.onclick = () => {
   const request = new XMLHttpRequest();
   request.open("get", "/5.json");
@@ -35,7 +35,7 @@ getJSON.onclick = () => {
   request.send();
 };
 
-// ------------------------------------------------------------------
+// 请求xml------------------------------------------------------------------
 getXML.onclick = () => {
   const request = new XMLHttpRequest();
   request.open("GET", "/4.xml");
@@ -49,7 +49,7 @@ getXML.onclick = () => {
   request.send();
 };
 
-// ------------------------------------------------------------------
+// 请求html------------------------------------------------------------------
 getHTML.onclick = () => {
   const request = new XMLHttpRequest();
   request.open("GET", "/3.htm");
@@ -65,7 +65,7 @@ getHTML.onclick = () => {
   request.send();
 };
 
-// ------------------------------------------------------------------
+// 请求js------------------------------------------------------------------
 getJS.onclick = () => {
   const request = new XMLHttpRequest();
   request.open("GET", "/2.js");
@@ -80,7 +80,7 @@ getJS.onclick = () => {
   request.onerror = () => {};
   request.send();
 };
-// ------------------------------------------------------------------
+// 请求css------------------------------------------------------------------
 getCSS.onclick = () => {
   const request = new XMLHttpRequest();
   request.open("GET", "/style.css"); // readyState = 1
@@ -102,4 +102,4 @@ getCSS.onclick = () => {
   };
   request.send(); // readyState = 2
 };
-// ------------------------------------------------------------------
+// 由此我们可以看出，ajax可以实现轻量级请求 ，分别单独的请求js html css-   ------------------------------------------------------
